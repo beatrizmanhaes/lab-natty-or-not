@@ -1,51 +1,31 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
-
-## 🚀 Introdução
-
-> Woooow! Look at this 👀
-
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
-
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
-
-### Objetivos
-
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
-
-### Template
-
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# Podcast: IA, benefícios e desafios
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+No podcast sobre Inteligência Artificial, tranformei text to speech com minha própria voz em inglês
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+ChatGPT
+[PlayHT](https://play.ht/?via=website-learnerswebsites)
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Utilizei o chatGPT para criar um texto em forma de podcast e o site play.ht para clonar minha voz
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+Obtive um bom resultado, uma voz muito parecida com a minha e efeito natural, porém queria adicionar efeitos sonoros
 
-## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
+## 📃 Texto em português
+Olá a todos da D I O. Bem-vindos ao episódio do podcast de hoje sobre Inteligência Artificial: Vantagens e Desvantagens. Hoje eu, Beatriz, sou sua anfitriã e neste episódio exploraremos o fascinante mundo da IA, discutindo seus benefícios e também seus desafios.
 
-### Exemplos e Insigths
+Comecemos pelas vantagens da inteligência artificial. A IA oferece oportunidades incríveis para melhorar a eficiência e a produtividade em vários setores. Por exemplo, na área da saúde, os sistemas alimentados por IA podem ajudar os médicos a diagnosticar doenças de forma mais precisa e eficiente. Isso pode levar à detecção precoce e melhores resultados para os pacientes.
 
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
+Além disso, a IA pode automatizar tarefas repetitivas, por exemplo, em setores como manufatura e logística. A automação orientada por IA pode agilizar processos, reduzir erros e aumentar as taxas de produção. Outra vantagem da IA é a sua capacidade de analisar grandes quantidades de dados com rapidez e precisão. Essa análise de dados pode levar a previsões valiosas que ajudam as empresas a tomar as melhores decisões e melhorar a experiência do cliente.
 
-## Links Interessantes
+No entanto, a inteligência artificial também apresenta alguns desafios e desvantagens. Uma preocupação é o potencial de deslocamento de empregos, à medida que a automação da IA substitui certas funções tradicionalmente desempenhadas por humanos. Além disso, existem considerações éticas em torno da IA, tais como preocupações com a privacidade e o risco de preconceito nos algoritmos de tomada de decisão. Garantir a utilização responsável e ética da IA é crucial para mitigar estes riscos e construir confiança nas tecnologias de IA.
 
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
+Concluindo, a inteligência artificial oferece um enorme potencial para revolucionar as indústrias e melhorar as nossas vidas de muitas maneiras. No entanto, é essencial enfrentar os desafios e riscos associados à IA para garantir a sua utilização responsável e ética.
 
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
+Isso é tudo para o episódio de hoje. Obrigado por assistir à nossa discussão sobre Inteligência Artificial: Vantagens e Desvantagens. Esperamos que você tenha achado informativo. Até a próxima, cuide-se e continue curioso!
+
+
+
+
