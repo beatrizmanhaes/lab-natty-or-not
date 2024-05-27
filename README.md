@@ -4,8 +4,7 @@
 No podcast sobre Inteligência Artificial, tranformei text to speech com minha própria voz em inglês
 
 ## 🤖 Tecnologias Utilizadas
-ChatGPT
-[PlayHT](https://play.ht/?via=website-learnerswebsites)
+ChatGPT e [PlayHT](https://play.ht/?via=website-learnerswebsites)
 
 ## 🧐 Processo de Criação
 Utilizei o chatGPT para criar um texto em forma de podcast e o site play.ht para clonar minha voz
